@@ -1,0 +1,32 @@
+REALTECH, United States (Nov 2020 – May 2025)
+
+- Led a large-scale IT infrastructure consolidation project that reduced system redundancies and cut annual maintenance costs.
+- Designed and implemented automated monitoring solutions that improved system uptime, enhancing client satisfaction and contract renewals.
+- Built a custom IT operations dashboard that reduced incident resolution time, saving 1,200+ engineering hours annually.
+- Migrated legacy IT operations into a modern cloud-native platform, improving performance and enabling faster client onboarding.
+- Biggest challenge was handling fragmented legacy infrastructures across multiple business units, causing bottlenecks and security risks.
+- Solved the challenge by implementing a hybrid-cloud strategy and centralized IT policy framework, reducing vulnerabilities by and audit compliance issues.
+- Mentored a team of 5 engineers to adopt DevOps practices, resulting in faster release cycles and 20% fewer post-deployment issues.
+- Delivered measurable client value, increasing retention rates and driving $10M+ in recurring consulting revenue for the firm.
+
+Experis (Apr 2016 – Oct 2020)
+
+- Directed a cloud modernization program for a Fortune 500 client, reducing infrastructure costs and enabling faster deployment of digital products.
+- Implemented AI-powered data analytics pipelines that cut reporting times, allowing clients to make real-time decisions on $500M+ portfolios.
+- Optimized global IT operations by introducing standardized processes across 12 countries, reducing operational inefficiencies.
+- Improved enterprise application security by leading the adoption of advanced IAM solutions, cutting security incidents year over year.
+- The biggest challenge was integrating diverse technology stacks across multiple client teams without disrupting existing operations.
+- Solved this by implementing a modular microservices architecture and CI/CD automation, enabling deployment success rates.
+- Partnered with business leaders to align IT with strategic goals, contributing to $50M+ in productivity gains across client engagements.
+- Recognized internally as a top consultant, achieving a client satisfaction score increase within two years.
+
+Tech Innovations Inc. (Jun 2014 – Mar 2016)
+
+- Spearheaded a network infrastructure upgrade project that increased system throughput and improved hardware reliability.
+- Designed a hardware-software integration system for enterprise clients that reduced deployment times, supporting $15M+ in contract wins.
+- Streamlined IT support operations by implementing predictive maintenance using IoT sensors, reducing downtime for 50+ enterprise clients.
+- Built a scalable network services framework that lowered bandwidth while improving customer connectivity performance.
+- Biggest challenge was ensuring compatibility between new hardware and legacy enterprise systems during client rollouts.
+- Solved this by building a robust testing framework with virtualization environments, cutting integration failures and deployment delays.
+- Trained cross-functional teams in system optimization techniques, leading increase in client project delivery speed.
+- Positioned the company as a trusted technology partner, contributing year-over-year growth and expanding the client base.

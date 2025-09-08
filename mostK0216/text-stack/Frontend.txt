@@ -1,0 +1,5 @@
+I am a software engineer with 10+ years of professional experience working with JavaScript, TypeScript, React, Next.js, Node.js, React Native to build dynamic web and mobile applications. I hold a Bachelor’s degree in Computer Science and have worked on projects that integrate APIs, optimize performance, and deliver smooth user experiences.
+
+In past roles, I’ve collaborated closely with product managers, designers, and backend teams to launch new features, troubleshoot issues, and improve application speed and scalability. I have experience with offline storage, multithreading, and performance tuning to ensure high-quality results.
+
+I’m passionate about building user-friendly applications, staying updated with the latest technologies, and contributing to a positive and collaborative remote team environment.

@@ -1,0 +1,9 @@
+Dear Hiring Manager,
+
+I am excited to apply for the AI Engineer position at your company. With over 5 years of experience in GenAI, AI, and ML, I have strong hands-on skills in Python, TensorFlow, PyTorch, and Scikit-learn. I have worked with large language models (LLMs), Generative AI, NLP, Computer Vision, and AI-driven automation, delivering real-world solutions.
+
+My experience includes using cloud AI services such as Azure AI, AWS Sagemaker, and GCP AI Platform, as well as MLOps, CI/CD pipelines, and deploying models with Docker and Kubernetes. I have also worked with vector databases, RAG methods, and fine-tuning models to meet specific business needs.
+
+I am eager to contribute to your AI Lab team, help develop innovative initiatives, and ensure smooth coordination and communication across projects and teams. Thank you for considering my application. I look forward to the opportunity to discuss how I can add value to your organization.
+
+Best regards,

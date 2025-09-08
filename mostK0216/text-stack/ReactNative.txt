@@ -1,0 +1,9 @@
+
+
+What significant experience do you have in front-end development, particularly on mobile in React Native?✱
+
+I have several years of experience in front-end development, with a strong focus on mobile using React Native. 
+I’ve built and maintained production apps for both iOS and Android, implementing features like authentication, push notifications, offline support, and smooth animations. 
+I’ve also worked with common libraries like React Navigation, Redux/RTK, and native modules when needed. 
+I focus on clean architecture, performance, and delivering a great user experience.
+

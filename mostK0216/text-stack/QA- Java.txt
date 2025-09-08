@@ -1,0 +1,17 @@
+I have over 6 years of experience in QA, strong test automation skills in Java, and I work well independently and in a team. I’m self-motivated, detail-oriented, and experienced in Agile environments.
+
+Relevant experience:
+
+6+ years in QA and test automation
+
+Strong in writing and maintaining automated tests using Java
+
+Experience testing REST APIs and backend services
+
+Good knowledge of MS SQL Server – data validation and manipulation
+
+Worked with Agile teams and CI/CD pipelines
+
+Background in payment systems and financial apps
+
+Excellent communication and problem-solving skills

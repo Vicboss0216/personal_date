@@ -1,0 +1,6 @@
+1.What is your take on Rust and do you have any experience with the language ?
+
+I think Rust is a powerful language, especially known for its memory safety, performance, and modern tooling. 
+It's great for system-level programming, building CLI tools, or performance-critical services. 
+While I don’t have deep professional experience with Rust yet, I’ve explored it through personal projects and experiments — enough to understand ownership, borrowing, and the general ecosystem. 
+I’m definitely interested in using it more in real-world applications, especially where performance and safety matter.

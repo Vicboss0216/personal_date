@@ -1,0 +1,6 @@
+What significant experience do you have in backend development (Typescript / Node.js)?
+
+I have solid experience in backend development using TypeScript and Node.js. 
+I’ve built REST and GraphQL APIs, worked with Express and NestJS, and handled features like authentication, file uploads, role-based access, and background jobs. 
+I’ve also integrated with databases like PostgreSQL and MongoDB, and deployed services using Docker and CI/CD pipelines. 
+I focus on writing clean, modular code and ensuring performance and security.

@@ -1,0 +1,53 @@
+1. NHS (England) | Nov 2020 – Apr 2025 | Healthcare Services
+
+- Led development of a patient data integration platform that unified records across 12 hospitals, improving data accessibility and reducing retrieval time.
+
+- Designed and implemented secure APIs for electronic prescriptions, cutting medication processing errors and saving over £2M annually in wasted prescriptions.
+
+- Built a real-time COVID-19 monitoring dashboard, enabling faster case tracking and reducing reporting delays across all regional clinics.
+
+- Optimized clinical scheduling algorithms, decreasing patient wait times and increasing daily throughput of consultations.
+
+- Introduced machine learning–based anomaly detection for medical imaging, accelerating early diagnosis and increasing accuracy rates.
+
+- Overcame challenge of legacy system interoperability by building middleware services, cutting integration costs and reducing downtime.
+
+- Migrated patient records to a HIPAA-compliant cloud solution, improving data security while lowering infrastructure costs.
+
+- Mentored 5 junior engineers in Agile healthcare IT practices, raising team productivity and ensuring delivery of sprint goals on time.
+
+Geek-Solutions LLC | Apr 2016 – Oct 2020 | Outsourcing & Offshoring Consulting
+
+- Delivered a global HR management SaaS solution for a client in 5 countries, cutting HR processing costs and reducing compliance risks.
+
+- Automated financial reporting pipelines for an outsourcing partner, reducing manual work and saving over 1,500 hours per year in labor costs.
+
+- Designed a multi-tenant client portal with role-based access, increasing customer retention and onboarding new clients faster.
+
+- Solved the challenge of scaling client workloads by deploying containerized microservices, which improved system uptime and cut hosting costs.
+
+- Implemented real-time language translation services in client support apps, boosting international adoption and cutting support handling times.
+
+- Built data migration frameworks that transitioned 15+ clients from legacy systems to cloud, reducing migration timelines compared to industry averages.
+
+- Developed custom performance dashboards for outsourcing operations, enabling better KPIs tracking and raising operational efficiency.
+
+- Trained cross-functional teams in DevOps and automation practices, cutting deployment cycles from 2 weeks to 2 days and reducing release rollbacks.
+
+Notime AG (Switzerland) | Jun 2014 – Mar 2016 | IT Services & IT Consulting
+
+- Spearheaded a last-mile delivery optimization system for e-commerce partners, reducing delivery delays and cutting logistics costs.
+
+- Implemented real-time courier tracking with IoT devices, improving delivery transparency and boosting customer satisfaction scores.
+
+- Designed predictive demand forecasting models, reducing idle courier hours and increasing operational efficiency.
+
+- Addressed the challenge of scaling delivery operations during peak seasons by automating route assignments, improving delivery capacity.
+
+- Migrated core logistics applications to the AWS cloud, reducing infrastructure costs while improving uptime.
+
+- Developed mobile applications for drivers, cutting manual paperwork and speeding up parcel handovers.
+
+- Created data-driven SLA compliance monitoring tools, reducing contract breaches and saving over CHF 500K annually in penalties.
+
+- Partnered with business teams to deploy customer-facing delivery notifications, improving engagement rates and reducing support calls.

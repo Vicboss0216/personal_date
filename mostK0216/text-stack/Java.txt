@@ -1,0 +1,8 @@
+Senior Java Developer with 10+ years of experience in designing and building scalable enterprise web applications. Proficient in full-stack development, API design (RESTful, GraphQL), and microservice architectures. Experienced with Spring, Hibernate, Apache Kafka, and cloud platforms (AWS, GCP, Azure). Strong in test-driven development (TDD) and Agile practices, with expertise in Docker, Kubernetes, and Terraform for deploying high-availability systems.
+
+
+I have good experience with Golang. 
+I’ve used it to build backend services, APIs (both REST and gRPC), and some internal tools. 
+I’ve worked with databases like PostgreSQL using Go, and I’m comfortable with Go’s concurrency features like goroutines and channels. 
+I’ve also written tests and used Go in Docker-based deployments. 
+While it’s not my main language, I can confidently work with it and pick up new things quickly.
